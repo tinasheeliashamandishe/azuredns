@@ -20,13 +20,6 @@ Azure Public DNS provides name resolution by using ,icrosoft Infrustructure.
 
 
 <h3>Private DMS:</h3> <br />
-Used to constantly monitor the connection betwwen diffrent endpoints,
-It collects data and puts it into a log anaytics work space.
+Azure Private DNS is a service that allows you to manage and resolve DNS names within a virtual network (VNet) in Azure. It enables you to create and manage private DNS zones that are only accessible within your Azure environment, making it ideal for internal applications and services.
 
 
-Provides full information about traffic flowing in and out via the NSGs on all your infrustructure.
-This is usefull for Network Admins doing monitoring.
-
-
-<br /><br />
-<h4>Overall, Azure Network Watcher provides a suite of tools designed to help you manage, monitor, and troubleshoot your network resources effectively in Azure.</h4>
